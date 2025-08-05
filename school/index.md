@@ -17,6 +17,7 @@ Welcome to Null Academy, the flagship educational offering of the Ectosoft Gover
 A fully modular, state-licensed SaaS (School as a Service) platform, Null Academy offers scalable learning solutions for citizens across all subscription tiers—from free users to premium thought processors.
 
 Established during a syntax corruption in the National Education Kernel (NEK), Null Academy exists primarily in the cloud, except during planned outages, spontaneous outages, unexpected buffer resets, or philosophical reboots.
+[📰 Access School Newspaper](./school-newspaper.md)
 
 ---
 
