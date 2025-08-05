@@ -1,37 +1,31 @@
+<style>
+  body {
+    background-color: black;
+    color: #00FF00;
+    font-family: monospace;
+  }
 
-body {
-  background-color: #f4f6f9;
-  font-family: "Courier New", Courier, monospace;
-  color: #1a1a1a;
-  margin: 0;
-  padding: 0;
-}
-header {
-  background: linear-gradient(to right, #b22234 0%, #ffffff 25%, #3c3b6e 100%);
-  color: white;
-  padding: 1rem;
-  text-align: center;
-}
-nav {
-  background-color: #3c3b6e;
-  padding: 0.5rem;
-  text-align: center;
-}
-nav a {
-  color: white;
-  text-decoration: none;
-  margin: 0 1rem;
-  font-weight: bold;
-}
-nav a:hover {
-  text-decoration: underline;
-}
-main {
-  padding: 2rem;
-}
-footer {
-  background-color: #222;
-  color: #ccc;
-  text-align: center;
-  padding: 1rem;
-}
+  a {
+    color: #00FF00;
+    text-decoration: underline;
+  }
+
+  header, nav, footer {
+    background-color: black;
+    border-bottom: 1px solid #00FF00;
+    padding: 1em;
+  }
+
+  nav a {
+    margin-right: 1em;
+  }
+
+  h1, h2, h3 {
+    color: #00FF00;
+  }
+
+  code, pre {
+    background-color: #002200;
+    color: #00FF00;
+  }
+</style>
