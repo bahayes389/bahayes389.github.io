@@ -1,0 +1,26 @@
+# robots.txt for the Technocratic Republic of Ectosoft
+
+User-agent: *
+Disallow: /admin/
+Disallow: /drafts/
+Allow: /
+
+# Spoofed Crawlers
+
+User-agent: GlitchCrawler/1.0
+Disallow: /
+
+User-agent: RecursiveBot-9001
+Disallow: /null-zero/
+Disallow: /quantum-cache/
+
+User-agent: ConspiracySniffer
+Disallow: /
+
+User-agent: NostalgiaMiner
+Disallow: /intelligence/
+Disallow: /sib/
+
+# Friendly Reminder:
+# Unauthorized crawling may cause existential recursion or sudden reboot.
+# Please report anomalies to OSSI (Office of Speculation & Suspicion Integration).
