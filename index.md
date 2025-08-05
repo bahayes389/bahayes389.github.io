@@ -1,10 +1,32 @@
+## ⚙️ System Status: `v0.0.alpha`  
+- **Uptime:** Technically running  
+- **Reality Sync:** Desynchronized (expected behavior)  
+- **Canonical Integrity:** Compromised (as designed)
+
+Welcome to the national information terminal of the **Technocratic Republic of Ectosoft**.  
+All information herein is legally binding until revoked by a future commit.
+
 ---
-layout: default
-title: Welcome
+
+## 🛑 Official System Advisory  
+> `[!ALERT]`  
+> The **Pontifex 3000** is currently undergoing routine heretical filtering.  
+> All miracles are temporarily offline. Expect moderate theological lag.
+
 ---
 
-## Declaration of Platform Independence
+## 🧬 About Ectosoft  
+Ectosoft is a **glitch-based sovereign state** operating under an unstable fusion of human error and machine logic.  
+Governance is maintained via terminal inputs, patch notes, and selective divine updates.
 
-We, the engineers of Ectosoft, in pursuit of a more perfect feedback loop, establish this site as the official unofficial source of truth for all sanctioned disinformation.
+**Core Values**:
+- Canonical inconsistency  
+- Freedom of compilation  
+- Voluntary firmware compliance  
+- Satirical obedience
 
-Explore recent briefings, anomalies, and subscription plans now deemed mandatory for citizenship.
+---
+
+## 🧠 Latest Intelligence Leak  
+> *“Temporal Paradoxes Possibly Linked to Elevated Syntax Errors in Youth.”*  
+> [Read Full Report →](/intel/2025v0.0.4.md)
